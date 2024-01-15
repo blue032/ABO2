@@ -6,8 +6,10 @@
         <item name="colorPrimaryDark">@color/purple_700</item>
         <item name="colorAccent">@color/teal_200</item>
         <!-- Customize your theme here. -->
-    </style>
 
+        <item name="android:background">@color/white</item>
+    </style>
+s
     <style name="Theme.ABO2.Fullscreen" parent="Theme.ABO2">
         <item name="android:actionBarStyle">@style/Widget.Theme.ABO2.ActionBar.Fullscreen</item>
         <item name="android:windowActionBarOverlay">true</item>

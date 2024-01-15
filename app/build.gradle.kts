@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.abo2application"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.abo2application"
@@ -30,6 +30,7 @@ android {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8
     }
+    buildToolsVersion = "30.0.3"
 }
 
 dependencies {
