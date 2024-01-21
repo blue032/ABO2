@@ -3,8 +3,13 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="title_profile">profile</string>
     <string name="title_activity_login">activity_login</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="title_activity_signup">signup</string>
+    <string name="home">홈</string>
+    <string name="dashboard">대시보드</string>
+    <string name="notification">알림</string>
+    <string name="profile">프로필</string>
 </resources>
