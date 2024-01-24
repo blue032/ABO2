@@ -54,7 +54,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <!-- 좌석 예시, 좌석 수와 배치에 따라 조정 필요 -->
 
         <ImageView
             android:id="@+id/seat3"
