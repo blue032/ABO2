@@ -27,10 +27,8 @@
             android:layout_marginTop="0dp"
 
             android:ems="10"
-            android:hint="아이디"
-            android:inputType="textPassword"
-            android:layout_constraintStart_toStartOf="parent"
-            android:layout_constraintTop_toTopOf="parent"/>
+            android:hint="이메일"
+            android:inputType="textPassword" />
 
         <EditText
             android:id="@+id/editname"
@@ -43,10 +41,7 @@
 
             android:ems="10"
             android:hint="이름"
-            android:inputType="textPersonName"
-            android:text=""
-            android:layout_constraintStart_toStartOf="parent"
-            android:layout_constraintTop_toTopOf="parent"/>
+            android:inputType="textPersonName" />
 
 
         <EditText
@@ -59,24 +54,20 @@
 
             android:ems="10"
             android:hint="생년월일"
-            android:inputType="textPassword"
-            android:layout_constraintStart_toStartOf="parent"
-            android:layout_constraintTop_toTopOf="parent"/>
+            android:inputType="textPassword" />
 
 
         <EditText
             android:id="@+id/editmail"
             android:layout_width="210dp"
             android:layout_height="50dp"
-            android:layout_constraintStart_toStartOf="parent"
-            android:layout_constraintTop_toTopOf="parent"
             android:layout_gravity="center"
 
             android:layout_marginStart="0dp"
             android:layout_marginTop="10dp"
             android:ems="10"
             android:hint="사업자번호(10자리)"
-            android:inputType="textPassword" />
+            android:inputType="numberDecimal" />
 
         <Button
             android:id="@+id/search_ID"
@@ -85,9 +76,7 @@
             android:layout_marginStart="0dp"
             android:layout_marginTop="20dp"
             android:layout_gravity="center"
-            android:text="비밀번호 찾기"
-            android:layout_constraintStart_toStartOf="parent"
-            android:layout_constraintTop_toTopOf="parent"/>
+            android:text="비밀번호 찾기" />
 
 
 
